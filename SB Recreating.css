@@ -20,7 +20,7 @@ body {
 }
 
 #rewards {
-    position: relative;
+    position: fixed;
     right: 30px;
 }
 

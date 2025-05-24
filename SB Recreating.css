@@ -1,0 +1,383 @@
+body {
+    overflow-x: hidden;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.section1 { /* The Whole Section 1 */
+    background-color: #ffffff; /* Blue */
+    width: 100%; /* Adjusted width to cover the background color */
+    height: 3vh;
+    position: relative;
+    border-radius: 4px;
+}
+
+#menu {
+    position: relative;
+    right: 10px;
+}
+
+#rewards {
+    position: relative;
+    right: 30px;
+}
+
+#giftcards {
+    position: relative;
+    right: 60px;
+}
+
+
+.section2 { /* The Whole Section 2 */
+    background-color: #1e3932;
+    width: 100%; /* Adjusted width to cover the background color */
+    height: 3vh;
+    border-radius: 1px;
+}
+
+.SB-text-Section2 {  /* STARBUCKS®REWARDS */
+    position: relative;
+    left: 172px;
+    top: -1870px;
+    color: #ffffff;
+    font-weight: bolder;
+    font:bold
+}
+
+
+.section3 { /* The Whole Section 3 */
+    background-color: #d4e9e2;
+    width: 100%; /* Adjusted width to cover the background color */
+    height: 1000px;
+}
+
+.SB-text-Section3 { /* Free Coffee Is A Tap Away */
+    position: relative;
+    left: 500px;
+    top: -1450px;
+    color: #000000;
+    font-weight: bolder;
+    font-size: 300%;
+}
+
+.additionalSEC3-text { /* Join now to start earning Rewards. */
+    position: relative;
+    top: -30px;
+    color: #000000;
+    font-size: 25px;
+    font-weight:lighter
+}
+
+.SB-text-Section3.PT2 { /* Or join in the app for the best experience */
+    position: relative;
+    top: -1395px;
+    color: #000000;
+    font-size: 25px;
+    font-weight:lighter
+}
+
+ .Star-image {
+    position: relative;
+    right: -1500px;
+    top: -1440px;
+    height: 350;
+    width: 350;
+    background-color:transparent
+}
+
+
+.section4 { /* The Whole Section 4 */
+    position: relative;
+    width: 100%;
+    height: 50vh;
+    bottom: 1px;
+    background-color: #ffffff;
+}
+
+.SB-text-Section4 {    /* Getting started is easy */
+    position: relative; 
+    top: -1050px;
+    left: 1120px;
+    font-size: 30px;
+    color: #000000;
+    font-weight: bold
+}
+
+.SB-text-Section4PT2 {   /* Earn Stars and get rewarded in a few easy steps. */
+    position: relative;
+    top: -1055px;
+    left: 1058px;
+    font-size: 20px;
+    color: #000000;
+    font-weight: lighter
+}
+
+/* Cirles For Section 4 Still Apart Of SEC4*/
+
+/* SEC4-1 */
+.SEC4-circle-1 {  /* Number 1 On Section 4 */
+    position: relative;
+    top: -1000px;
+    left: 880px;
+    width: 50px;
+    height: 50px;
+    color: #008248;
+    font-size: 25px;
+    font-weight: bolder;
+    border: 2px solid #008248; 
+    border-radius: 50%;
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.SEC4-circle-1-Para { /* Create an Account SEC4 */
+    position: relative;
+    top: -995px;
+    left: 820px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #000000;
+}
+
+
+.SEC4-circle-1-Para-Pt2{ /* To get started, join now. You can also join in the app to get access to the full range of Starbucks® Rewards benefits. SEC4 */
+    position: relative;
+    top: -985px;
+    left: 745px;
+    font-size: 15px;
+    color: #000000;
+}
+
+/* SEC4-2 */
+.SEC4-circle-2 { /* Number 2 On Section 4 */
+    position: relative;
+    top: -1184px;
+    left: 1254px;
+    width: 50px;
+    height: 50px;
+    color: #008248;
+    font-size: 25px;
+    font-weight: bolder;
+    border: 2px solid #008248; 
+    border-radius: 50%;
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.SEC4-circle-2-Para{ /* Order and pay how you'd like. SEC4  */
+    position: relative;
+    top: -1178px;
+    left: 1150px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #000000;
+}
+
+
+.SEC4-circle-2-Para-Pt2{ /* Use cash, credit/debit card or save some time and pay right through the app. You’ll collect Stars all ways. Learn how. SEC4 */
+    position: relative;
+    top: -1168px;
+    left: 1139px;
+    font-size: 15px;
+    color: #000000;
+}
+
+/* SEC4-3 */
+.SEC4-circle-3 {  /* Number 3 On Section 4 */
+    position: relative;
+    top: -1369px;
+    left: 1633px;
+    width: 50px;
+    height: 50px;
+    color: #008248;
+    font-size: 25px;
+    font-weight: bolder;
+    border: 2px solid #008248; 
+    border-radius: 50%;
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.SEC4-circle-3-Para{ /* Earn Stars, get Rewards SEC4 */
+
+    position: relative;
+    top: -1361px;
+    left: 1542px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #000000;
+}
+
+
+
+.SEC4-circle-3-Para-Pt2{ /* As you earn Stars, you can redeem them for Rewards—like free food, drinks, and more. Start redeeming with as little as 25 Stars! SEC4 */
+    position: relative;
+    top: -1351px;
+    left: 1510px;
+    font-size: 15px;
+    color: #000000;
+}
+
+
+
+.section5{
+    position: relative;
+    width: 100%;
+    height: 15vh;
+    bottom: 1px;
+    background-color: #f1f8f6;
+ }
+    
+
+
+ .SB-text-Section5{ /* Get your favorites for free */
+    position: relative;
+    top: -1225px;
+    left: 1151px;
+    font-size: 24px;
+    color: #000000;
+    font-weight: bold
+ }
+
+ /* --------------------------------------------------------------------------------------------------------------------------------CONSTRUCTION------------------------------------------------------------------------------------------------------------- */
+ .container{
+    position: relative;
+    
+ }
+.container .wrapper{
+    
+    width: 70vw;
+    height: 65vh;
+    box-shadow: 10px 10px 10px;
+    margin: 5rem auto;
+    position: relative;
+    top: -1190px;
+    background-color: #c8db1763;
+}
+
+.container .wrapper-holder{
+    display: grid;
+    grid-template-columns: repeat(4,100%);
+    height: 100%;
+    width: 100%;
+}
+
+.container #slider-img-1{
+    width: auto;
+    background-image: url(https://fastly.picsum.photos/id/634/200/300.jpg?hmac=dHnJDi4giQORL4vMes_SpKmSA_edpLoLAu-c-jsNFh8);
+    background-position: center;
+    background-size: cover;
+}
+/* --------------------------------------------------------------------------------------------------------------------------------CONSTRUCTION------------------------------------------------------------------------------------------------------------- */
+
+
+
+
+
+
+
+
+
+
+
+
+
+.dropdownmenu ul,.dropdownmenu li {
+    margin: 0;
+    padding: 0;
+}
+
+.dropdownmenu ul {
+    background: rgb(0, 0, 0);
+    list-style: none;
+    width: 400px;
+}
+
+.dropdownmenu li { /* Navbar Controls */
+    float: left;
+    position: relative;
+	left: 125px;
+    width: 130px; /* The gap between the Nav bar txt spaces */
+}
+
+.dropdownmenu a {
+    background:transparent; /* Nav bck ground color */
+    color: #000000;
+    display: block;
+    font: bold 12px/20px sans-serif;
+    padding: 20px 10px;
+    text-align: center;
+    text-decoration: none;
+    -webkit-transition: all .25s ease;
+    -moz-transition: all .25s ease;
+    -ms-transition: all .25s ease;
+    -o-transition: all .25s ease;
+    transition: all .25s ease;
+}
+
+.dropdownmenu li:hover a {
+    padding: 5%;
+background: #008248  /* color for the Nav txt */
+}
+
+#submenu {
+    left: 0;
+    opacity: 0;
+    position: absolute;
+    top: 35px;
+    visibility: hidden;
+}
+
+li:hover ul#submenu {
+    opacity: 1;
+    top: 50px; /* Adjusted top position */
+    visibility: visible;
+}
+
+#submenu li {
+    float: none;
+    width: 100%;
+}
+
+.button {   /* Join Now Green buttion */
+    position: relative;
+    top: -1525px;
+    left: -702px;
+    text-align: center;
+    font-size: 1.5em;
+    margin: 0 auto;
+    width: 5%;
+    padding: 3px;
+    border: 1px solid;
+    border-radius: 70px;
+    border-color: #00000000; /* Border Outline Color */
+    background-color: #008248; /* Txt background */
+    transition: 0.35s;
+}
+
+.button a {
+    text-decoration: none;
+    color: #ffffff; /* txt color */
+}
+
+.button:hover a {
+    text-decoration: none;
+    color: rgb(255, 255, 255); /* Hover txt color */
+}
+
+.button:hover {
+    color: rgb(0, 0, 0);
+    background-color: #008248c2 /* Hover Background color */
+}
+
